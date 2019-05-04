@@ -1,4 +1,4 @@
-# robot-ud-project3
+# robot-udacity-project3
 _Robotics Software Engineer Nanodegree Program: Project 3_
 
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
